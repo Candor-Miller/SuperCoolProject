@@ -1,6 +1,8 @@
 # SuperCoolProject
 
-Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
+candor miller
+
+ Hello! Glad to see my homework repo is still being used. Maybe check out some of the other garbage I have kicking around on here?
 
 Pro tips for getting an A in Dr.Cerny's class. 
 
@@ -9,4 +11,4 @@ Pro tips for getting an A in Dr.Cerny's class.
     3. Master git and design patterns. 
     4. You dont realize it now, but java streams are king. 
   
-  Do me a favor, if everyone here can tell Professor Fry congradulations on retirement, im sure she would be very greatful. 
+  Do me a favor, if everyone here can tell Professor Fry congratulations on retirement, I'm sure she would be very grateful. 
